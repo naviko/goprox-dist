@@ -38,3 +38,6 @@ yarn.lock
 *.swp
 *.swo
 *~
+
+# Claude Code
+CLAUDE.md
